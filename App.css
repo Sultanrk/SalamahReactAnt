@@ -1,0 +1,81 @@
+.ant-menu {
+  background: rgba(0, 0, 0, 0);
+}
+
+.ant-menu-item {
+  background: linear-gradient(
+    45deg,
+    rgba(224, 239, 255, 1) 30%,
+    rgba(192, 241, 255, 1) 100%
+  );
+  color: rgba(68, 159, 244, 1) !important;
+  filter: drop-shadow(0px 5px 5px #0000004a);
+}
+
+.ant-menu-item:hover {
+  color: rgb(58, 202, 82) !important;
+}
+
+.ant-menu-item-selected {
+  background: linear-gradient(
+    220deg,
+    rgba(101, 180, 255, 1) 0%,
+    rgba(68, 159, 244, 1) 100%
+  ) !important;
+  color: white !important;
+}
+
+.aibutton {
+  background: linear-gradient(
+    70deg,
+    rgba(80, 153, 174, 1) 50%,
+    rgba(235, 88, 201, 1) 100%
+  );
+  color: white !important;
+}
+
+.cardheader {
+  color: white;
+  text-align: left;
+}
+
+.logo {
+  color: white;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.input {
+  color: white;
+  height: auto;
+  width: 95%;
+  border-radius: 25px;
+  margin: auto;
+  overflow: auto;
+  margin-bottom: 10px;
+}
+
+.wlcm {
+  margin: 0px;
+  margin-bottom: -10px;
+  margin-top: -5px;
+}
+
+.date {
+  margin: 0;
+  margin-top: -35px;
+  text-align: right;
+}
+
+.time {
+  margin: 0;
+  margin-top: -5px;
+  font-size: 30px;
+  text-align: right;
+}
+
+.timedate {
+  margin-top: 20px;
+  margin: 0;
+  margin-left: 680px;
+}

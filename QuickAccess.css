@@ -1,0 +1,55 @@
+.Qckbox {
+  background: linear-gradient(70deg, rgba(96,169,120,1) 60%, rgba(58,202,181,1) 100%);
+  height: 342px;
+  width: 375px;
+  overflow: auto;
+  border-radius: 25px;
+
+}
+
+.qckflex {
+  height: 122px;
+  width: 170px;
+  border-radius: 25px;
+  margin: 4px;
+}
+
+.qckbutton {
+  background: rgba(255, 255, 255, 0.198);
+  color: white;
+  height: 122px;
+  width: 170px;
+  border-radius: 25px;
+  text-align: center;
+  line-height: 122px;
+  font-size: 16px;
+}
+
+.qckbutton:hover {
+  background: rgba(255, 255, 255, 0.5);
+  color: white;
+}
+
+.editbutton {
+  background: rgba(255, 255, 255, 0.198);
+  color: white;
+  height: 30px;
+  width: 55px;
+  border-radius: 15px;
+  margin-top: 22px;
+  margin-left: 60px;
+  text-align: center;
+  line-height:30px;
+}
+
+.editbutton:hover {
+  background: rgba(255, 255, 255, 0.5);
+  color: white;
+}
+
+.editflex {
+  color: white;
+  height: 30px;
+  width: 55px;
+  border-radius: 15px;
+}

@@ -1,0 +1,42 @@
+.reports {
+  background: linear-gradient(
+    70deg,
+    rgba(103, 161, 255, 1) 50%,
+    rgba(224, 239, 255, 1) 100%
+  );
+  height: 700px;
+  width: 771px;
+  overflow: auto;
+  border-radius: 25px;
+}
+
+.reportstable {
+  width: 735px;
+  margin: auto;
+}
+
+.reportstable .ant-table {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  border: 0px solid black;
+  color: white !important;
+}
+
+.ant-table-divider {
+  background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.reportstable .ant-table-header {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.reportstable .ant-table-tbody > tr:hover {
+  background-color: #e6f7ff;
+}
+
+.reportstable .ant-table-cell {
+  color: #000;
+}
+
+.ant-table-header-column {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}

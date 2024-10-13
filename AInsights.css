@@ -1,0 +1,50 @@
+.insights {
+  background: linear-gradient(70deg, rgba(80,153,174,1) 50%, rgba(235,88,201,1) 100%);;
+  height: 700px;
+  width: 375px;
+  overflow: auto;
+  border-radius: 25px;
+}
+
+.aicontent
+{
+  margin-top: 10px;
+  margin-left: 10px;
+  color: rgb(236, 236, 236);
+  font-size: 14px;
+  margin-right: 15px;
+}
+
+.insightlogo {
+  font-size: 32px;
+  margin-left: 15px;
+}
+
+.insightheader {
+  margin: 0;
+  margin-bottom: -12px;
+  font-size: 18px;
+}
+
+.insightcontent {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    margin-right: 15px;
+  }
+
+.isnightcontainer {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  height: auto;
+  width: 350px;
+  border-radius: 25px;
+  margin: auto;
+  overflow: auto;
+  margin-bottom: 10px;
+}
+
+.isnightcontainer:hover {
+  background: rgba(255, 255, 255, 0.4);
+}

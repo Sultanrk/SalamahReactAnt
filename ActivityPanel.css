@@ -1,0 +1,11 @@
+.activity {
+  background: linear-gradient(
+    70deg,
+    rgba(103, 161, 255, 1) 50%,
+    rgba(224, 239, 255, 1) 100%
+  );
+  height: 700px;
+  width: 771px;
+  overflow: auto;
+  border-radius: 25px;
+}
